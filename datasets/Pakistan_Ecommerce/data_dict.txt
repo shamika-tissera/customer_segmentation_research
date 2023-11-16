@@ -1,0 +1,28 @@
+The dataset contains information on e-commerce transactions in Pakistan from March 2016 to August 2018. It consists of 26 columns, namely: 
+
+1. item_id: id for the ordered product.
+2. status: order status updates.
+3. created_at: order date.
+4. sku: product name.
+5. price: product unit price.
+6. qty_order: total quantity of products ordered.
+7. grand_total: total price of the ordered products.
+8. increment_id: payment code.
+9. category_name_1: product category name.
+10. sales_commission_code: sales commission code.
+11. discount_amount: the amount deducted as a discount.
+12. payment_method: the payment method used.
+13. Working Date: the date on which the order was processed.
+14. BI status: the status indicating whether the transaction is net or other.
+15. MV: the total order price to be paid.
+16. Year: the year in which the transaction occurred.
+17. Month: the month in which the transaction occurred.
+18. Customer_Since: the information code representing the year & month in which the customer joined.
+19. M-Y: the information code representing the months & year in which the transaction occurred.
+20. FY: the year of the e-commerce financial budget.
+21. Customer ID: the unique identifier for the customer.
+22. Unnamed 21 : blank column
+23. Unnamed 22 : blank column
+24. Unnamed 23 : blank column
+25. Unnamed 24 : blank column
+26. Unnamed 25 : blank column

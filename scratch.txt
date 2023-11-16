@@ -1,0 +1,53 @@
+Recency: Recently,
+                Frequency: Frequently,
+                Monetary Value: High,
+                Country: Italy
+
+
+Recency: Not recently at all,
+                Frequency: Not so frequently,
+                Monetary Value: Low,
+                Country: Norway
+
+Recency: Recently,                 Frequency: Frequently,                 Monetary Value: High,                 Country: Italy
+
+
+
+Visited recently, visits frequently, spends a lot of money, and is from Italy
+
+Visited a very long time ago, visits not so frequently, spends a little money, and is from Norway
+
+Visited a very long time ago, visits not so frequently, spends a little money, and is from Norway
+
+Visited a very long time ago, visits not so frequently, spends a little money, and is from India
+Visited a very long time ago, visits not so frequently, spends a little money, and is from Finland
+
+
+very recently
+recently
+not so recently
+some time ago
+a very long time ago
+
+visits very frequently
+visits frequently
+visits not so frequently
+visits only a few times
+visits only once
+
+
+spends a lot of money
+spends some money
+spends an average amount of money
+spends a little money
+spends only a very little money
+
+
+4 + 4 + 5
+
+4 + 4 + 5
+1 + 3 + 1
+4 + 3 + 1
+
+
+5 + 3 + 5
