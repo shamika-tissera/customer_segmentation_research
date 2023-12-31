@@ -1,6 +1,15 @@
 # Research on Customer Segmentation Methods Using Embeddings
 An exploration of different customer segmentation methods to recommend the best.
 
+### Datasets Used
+
+| Dataset | Source | Description |
+| ------- | ------ |-------------|
+| Banking Dataset - Marketing Targets  | [Banking Dataset - Marketing Targets](https://www.kaggle.com/datasets/prakharrathi25/banking-dataset-marketing-targets) | This dataset contains information about customers who were contacted by a bank for a term deposit campaign.
+| E-Commerce Public Dataset by Olist | [E-Commerce Public Dataset by Olist](https://doi.org/10.34740/KAGGLE/DSV/195341) | A collection of data from an online marketplace in Brazil. It comprises data from over 100,000 online orders in Brazil between 2016 and 2018.
+
+
+
 ### Structure for Experimentation on Exploring the Appropriability of Combining LLM and DICE Embeddings
 ```
 Phase - I
