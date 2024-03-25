@@ -11,6 +11,7 @@ An exploration of different customer segmentation methods to recommend the best.
 
 
 ### Structure for Experimentation on Exploring the Appropriability of Combining LLM and DICE Embeddings
+
 ```
 Phase - I
 	k - Means
@@ -31,6 +32,18 @@ Phase - II
 			Using LLM + DICE [9]
 		Dataset - 2 (Only using DICE) [10]
 ```
+| Phase | Method | Dataset | Description | File |
+| ----- | ------ | ------- | ----------- | ---- |
+| Phase - I | k - Means | Dataset - 1 |  | [1]
+| Phase - I | k - Means | Dataset - 2 |  | [2]
+| Phase - I | Agglomerative | Dataset - 1 |  | [3]
+| Phase - I | Agglomerative | Dataset - 2 |  | [4]
+| Phase - II | k - Means | Dataset - 1 | Using LLM Embeddings | [5]
+| Phase - II | k - Means | Dataset - 1 | Using LLM + DICE Embeddings | [6]
+| Phase - II | k - Means | Dataset - 2 | Using DICE Embeddings | [7]
+| Phase - II | Agglomerative | Dataset - 1 | Using LLM Embeddings | [8]
+| Phase - II | Agglomerative | Dataset - 1 | Using LLM + DICE Embeddings | [9]
+| Phase - II | Agglomerative | Dataset - 2 | Using DICE Embeddings | [10]
 
 ### Structure for Experimentation on Comparing Various LLMs with Traditional NLP Methods
 -> See 'Reviews' Directory
